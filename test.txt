@@ -1,1 +1,2 @@
 sed -i 's/Netcracker/shitalMadmakijayho/g' nishant.txt ----------cmd is used to replace word in file
+sed update
